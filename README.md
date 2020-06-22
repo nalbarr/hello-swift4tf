@@ -20,7 +20,7 @@ I tested this on Macos running Catalina with Xcode 11 with 5/13 - Development br
 `make help`
 
 ## Caveats
-As of mid May 2020.  S4TF is 
+As of mid May 2020.  S4TF is still evolving and still getting product roadmapped. 
 
 ## References
 - [s4tf project](https://github.com/tensorflow/swift-apis)
